@@ -1,5 +1,5 @@
-mustached-adventure
-===================
+miniature-cyril
+===============
 
 An idea for a project to better learn Scala.... no real business or functional value intended
 
